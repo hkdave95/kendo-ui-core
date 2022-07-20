@@ -134,7 +134,7 @@ Specifies the menu buttons of the **SplitButton**.
                 { id: "item1", text: "Item1", click: function(ev){alert("Item 1 clicked!");} },
                 { id: "item2", text: "Item2", icon: "gear", attributes: { "data-context": "some arbitrary data" }},
                 { id: "item3", text: "Item3", imageUrl: "https://demos.telerik.com/kendo-ui/content/shared/icons/sports/snowboarding.png"},
-                { id: "item4", text: "Item4", url: "www.telerik.com"},
+                { id: "item4", text: "Item4" },
                 { id: "item5", text: "Item5", enabled: false },
                 { id: "item6", text: "Item6", hidden: true  }
             ],
