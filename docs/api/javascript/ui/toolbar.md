@@ -1264,7 +1264,7 @@ A boolean flag that determines whether the command should be enabled (true) or d
         });
 
         var toolbar = $("#toolbar").data("kendoToolBar");
-        toolbar.enable("#btn1", false); //disables the initially disabled command
+        toolbar.enable("#btn1", false); //disables the initially enabled command
     </script>
 
 ### getSelectedFromGroup
